@@ -1,20 +1,16 @@
-# Nome do Sistema: o que ele faz, em uma frase
-
-> **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
+# Nome do Sistema: A Lousa do House
+A Lousa do House permite que os médicos do hospital Princeton Plasboro agendem salas de exames, cirurgias e enviem autorizações de procedimentos para o comitê.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** ANA VITÓRIA SCHACTAE BRANDÃO
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Doutora Cuddy, diretora do Hospital Princeton Plasboro, personagem da minha série favorita.
 
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
-
-_Escreva aqui a apresentação do projeto._
+A Doutora Cuddy, diretora do hospital Princeton Plasboro, recebe frequentemente propostas de procedimentos inusitados de seu funcionário mais competente - o médico diagnosticador Doutor House - que se acumulam em sua mesa. Além disso, muitas vezes a hierarquia de agendamento de salas de cirurgia e de procedimentos não é respeitada por ele. A lousa do House permite que os médicos consigam agendar as salas do hospital, enviar documentos para o comitê de medicina e ver as atualizações desse procedimento em um só lugar, para que a diretora não fique sobrecarregada
 
 ## Documento do projeto
 
